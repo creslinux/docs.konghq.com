@@ -99,7 +99,7 @@ Enable Immunity/Brain GUI changes on Kong Manager by editing the kong.env file t
 ```
 admin_gui_flags={"IMMUNITY_ENABLED":true}
 ```
-Then restart Kong to see the changes take affect.
+Then restart Kong to see the changes take effect.
 
 Next, enable the Collector Plugin using the Admin API:
 
